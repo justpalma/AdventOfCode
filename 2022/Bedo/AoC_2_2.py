@@ -23,7 +23,7 @@
 if __name__ == "__main__":
     score = 0
 
-    with open("C:\\Users\\abedini\\IdeaProjects\\python_scripts\\resources\\AoC_2.txt", 'r') as file:
+    with open("/home/allebedo/Projects/AdventOfCode/2022/Bedo/resources/AoC_2.txt", 'r') as file:
 
         for line in file:
             if line[2] == "X":

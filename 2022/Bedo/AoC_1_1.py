@@ -15,7 +15,7 @@
 if __name__ == "__main__":
     max = 0
 
-    with open("C:\\Users\\abedini\\IdeaProjects\\python_scripts\\resources\\AoC_1.txt", 'r') as file:
+    with open("/home/allebedo/Projects/AdventOfCode/2022/Bedo/resources/AoC_1.txt", 'r') as file:
         cur = 0
         for line in file:
             if line != '\n':
