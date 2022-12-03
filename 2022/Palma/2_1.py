@@ -37,7 +37,7 @@ def find_winner(elf, me):
         return lose + current
 
 
-with open("input.txt") as file:
+with open("resources/day_2_input.txt") as file:
     point = 0
     for line in file:
         l = line.rstrip()

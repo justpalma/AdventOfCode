@@ -3,7 +3,7 @@ max = 0
 current = 0
 
 
-with open("input.txt") as file:
+with open("resources/day_1_input.txt") as file:
     for line in file:
         l = line.rstrip()
         if line == '\n':
