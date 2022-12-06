@@ -1,5 +1,5 @@
 filename = "resources/day_5_input.txt"
-#filename = "resources/input2.txt"
+
 
 
 def get_total_crates():
